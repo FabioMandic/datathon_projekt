@@ -7,6 +7,10 @@ Tim „Požega”: Domagoj Lukas i Fabio Mandić, studenti diplomskog studija Ra
 
 **Demo:** https://dobromjesto.domagojlukas.online/ · **Video (do 3 minute):** https://www.youtube.com/watch?v=_rQu2LJActU
 
+🥈 **2. mjesto u Hrvatskoj u izazovu B (Okoliš i održivi prostor)** na Datathonu Portala otvorenih podataka 2026. (finale u Zagrebu, 23. 11. 2026.)
+
+> Ovo je kopija timskog repozitorija [dlukas99/datathon_projekt](https://github.com/dlukas99/datathon_projekt) s cijelom poviješću razvoja. Detaljno objašnjenje projekta: [docs/PROJEKT_OBJASNJENJE.md](docs/PROJEKT_OBJASNJENJE.md) ([PDF](docs/PROJEKT_OBJASNJENJE.pdf)).
+
 ![Izvještaj za adresu: okolišni pregled, život bez auta i svakodnevni život](docs/images/izvjestaj.png)
 
 ---
